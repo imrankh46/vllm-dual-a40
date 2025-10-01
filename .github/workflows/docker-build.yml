@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_IMAGE: yourusername/vllm-dual-a40
+  DOCKER_IMAGE: imranullah/vllm-dual-a40
   
 jobs:
   build:
